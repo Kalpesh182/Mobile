@@ -1,2 +1,5 @@
 # Mobile
-OS system
+OS system 
+processor
+application
+features
